@@ -22,7 +22,3 @@ Ensure  you are in the root folder of the file (where `package.json` is). To do 
 `npm i`
 
 `npm start`
-
-### Closing though
-
-I had an easier time working on the front-end than the back-end. However, I did learn a few aspects in terms of protected routing through react (logging in). Although this was the simpler section of the assessment, I spent a lot of time trying to make it aesthetically pleasing for my own satisfaction. This was a very fun project, and I was glad I got to do it.
